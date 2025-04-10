@@ -1,5 +1,5 @@
 # WinEventLookup
-Basic Python utility to look up Windows Event IDs.
+Python utility to look up Windows Event IDs.
 ```
             ______              
          .-'      `-.           
